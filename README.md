@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href=" ">
-    <img src="figures/logo.png" alt="Logo" width="400">
+    <img src="figures/logo.png" alt="Logo" width="600">
   </a>
 </div>
 
