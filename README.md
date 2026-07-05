@@ -6,7 +6,7 @@
   </a>
 </div>
 
-This repo contains source code for the paper: [LRBench and Judge-R1: Principled Evaluation and Training of LLM-Based Judges for Long-Context Reasoning](https://openreview.net/forum?id=LKYywBsJXb).
+This repo contains source code for the paper: [LRBench and Judge-R1: Principled Evaluation and Training of LLM-Based Judges for Long-Context Reasoning](https://openreview.net/forum?id=LKYywBsJXb). The code release is currently under Amazon’s internal review process.
 
 <p align="center">
   📃 <a href="https://openreview.net/forum?id=LKYywBsJXb" target="_blank">[Paper]</a> • 💻 <a href="https://github.com/Xinyi-0724/Judge-R1" target="_blank">[Github]</a> • 🤗 <a href="https://github.com/Xinyi-0724/Judge-R1" target="_blank">[Dataset]</a> 
