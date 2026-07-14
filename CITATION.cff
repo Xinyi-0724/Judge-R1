@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use LRBench or Judge-R1, please cite the ACL Findings paper."
+title: "LRBench and Judge-R1: Principled Evaluation and Training of LLM-Based Judges for Long-Context Reasoning"
+authors:
+  - family-names: Zhao
+    given-names: Xinyi
+  - family-names: Hu
+    given-names: Haoqi
+  - family-names: Wang
+    given-names: Ziyu
+  - family-names: Xiao
+    given-names: Jinfeng
+year: 2026
+doi: 10.18653/v1/2026.findings-acl.2029
+url: "https://aclanthology.org/2026.findings-acl.2029/"
+preferred-citation:
+  type: conference-paper
+  title: "LRBench and Judge-R1: Principled Evaluation and Training of LLM-Based Judges for Long-Context Reasoning"
+  authors:
+    - family-names: Zhao
+      given-names: Xinyi
+    - family-names: Hu
+      given-names: Haoqi
+    - family-names: Wang
+      given-names: Ziyu
+    - family-names: Xiao
+      given-names: Jinfeng
+  conference:
+    name: "Findings of the Association for Computational Linguistics: ACL 2026"
+    location: "San Diego, California, United States"
+  year: 2026
+  month: 7
+  doi: 10.18653/v1/2026.findings-acl.2029
+  url: "https://aclanthology.org/2026.findings-acl.2029/"
+  start: 40839
+  end: 40861
