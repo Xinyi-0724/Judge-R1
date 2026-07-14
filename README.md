@@ -1,5 +1,9 @@
 # Judge-R1
 
+<div align="center">
+  <img src="figures/logo.png" alt="Judge-R1 logo" width="800">
+</div>
+
 Official repository for **LRBench and Judge-R1: Principled Evaluation and Training of LLM-Based Judges for Long-Context Reasoning** (Findings of ACL 2026).
 
 Judge-R1 adapts the Search-R1 style agentic reinforcement learning pipeline to train LLM-based judges for long-context reasoning evaluation. The repository intentionally stays close to the reviewed `Search-R1-Qwen3` layout while adding Judge-R1-specific search, reward, and evaluation logic.
